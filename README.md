@@ -1,3 +1,3 @@
-# Customers management web app with JSP
+# Customers management web app
 
-Web application that allows you to manage your clients with data from a MYSQL database.
+Web application  with JSP that allows you to manage your clients with data from a MYSQL database.
